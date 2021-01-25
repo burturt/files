@@ -1,0 +1,5 @@
+1 golden
+2 honey
+3 fruit
+4 grey
+5 bald
